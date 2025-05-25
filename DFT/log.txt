@@ -1,0 +1,68 @@
+============================== 
+Log generated on: 2025-05-25_13:06:54 
+============================== 
+Model Technology ModelSim - Intel FPGA Edition vmap 2021.1 Lib Mapping Utility 2021.02 Feb  3 2021
+vmap work work 
+Modifying modelsim.ini
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+Start time: 13:06:54 on May 25,2025
+vlog -sv ./src/*.v 
+-- Compiling module AddFloat
+-- Compiling module AddInt
+-- Compiling module Coefficients
+-- Compiling module DataInFlag
+-- Compiling module DivideFloat
+-- Compiling module DivideInt
+-- Compiling module FFT
+-- Compiling module Fundamentals
+-- Compiling module HistoryData
+-- Compiling module MultiplyFloat
+-- Compiling module MultiplyInt
+-- Compiling module test
+-- Compiling module WeightSum
+
+Top level modules:
+	test
+End time: 13:06:54 on May 25,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+Reading pref.tcl
+
+# 2021.1
+
+# vsim -c -do "add wave -r *; run -all; delete wave *" test 
+# Start time: 13:06:55 on May 25,2025
+# Loading sv_std.std
+# Loading work.test
+# Loading work.FFT
+# Loading work.DataInFlag
+# Loading work.Coefficients
+# Loading work.AddFloat
+# Loading work.AddInt
+# Loading work.DivideFloat
+# Loading work.DivideInt
+# Loading work.HistoryData
+# Loading work.Fundamentals
+# Loading work.WeightSum
+# Loading work.MultiplyFloat
+# Loading work.MultiplyInt
+# add wave -r *
+#  run -all
+# 
+# === Current Working Directory ===
+# F:\data\Quartus\DFTHK01
+# ================================
+# 
+# Time:    0.00100 ms;	Line:   8500; Data passed to verilog.
+# Time:    0.00300 ms;	Line:   8501; Data passed to verilog.
+# Time:    0.00500 ms;	Line:   8502; Data passed to verilog.
+# Time:    0.00700 ms;	Line:   8503; Data passed to verilog.
+# Time:    0.00900 ms;	Line:   8504; Data passed to verilog.
+# Time:    0.01100 ms;	Line:   8505; Data passed to verilog.
+# Time:    0.01300 ms;	Line:   8506; Data passed to verilog.
+# Time:    0.01500 ms;	Line:   8507; Data passed to verilog.
+# Time:    0.01700 ms;	Line:   8508; Data passed to verilog.
+# Time:    0.01900 ms;	Line:   8509; Data passed to verilog.
+# ** Note: $finish    : ./src/test.v(41)
+#    Time: 20 us  Iteration: 0  Instance: /test
+# End time: 13:06:58 on May 25,2025, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 0

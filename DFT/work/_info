@@ -1,0 +1,335 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/data/Quartus/DFTHK01
+vAddFloat
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1748149614
+!i10b 1
+!s100 kO5Cl5QQlfeY9bWYah;QO3
+I@7?j8W?iFmz=fU^SCMZB]0
+S1
+R0
+w1747968811
+8./src/AddFloat.v
+F./src/AddFloat.v
+!i122 0
+L0 1 157
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z5 !s108 1748149614.000000
+!s107 ./src/WeightSum.v|./src/test.v|./src/MultiplyInt.v|./src/MultiplyFloat.v|./src/HistoryData.v|./src/Fundamentals.v|./src/FFT.v|./src/DivideInt.v|./src/DivideFloat.v|./src/DataInFlag.v|./src/Coefficients.v|./src/AddInt.v|./src/AddFloat.v|
+Z6 !s90 -sv|./src/AddFloat.v|./src/AddInt.v|./src/Coefficients.v|./src/DataInFlag.v|./src/DivideFloat.v|./src/DivideInt.v|./src/FFT.v|./src/Fundamentals.v|./src/HistoryData.v|./src/MultiplyFloat.v|./src/MultiplyInt.v|./src/test.v|./src/WeightSum.v|
+!i113 1
+o-sv
+Z7 tCvgOpt 0
+n@add@float
+vAddInt
+R1
+R2
+!i10b 1
+!s100 JKa;0?imQzF:??Q0e=3YQ3
+IdHG:<C736cHGgaS0Ikl?40
+S1
+R0
+w1747968747
+8./src/AddInt.v
+F./src/AddInt.v
+!i122 0
+L0 2 51
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ./src/WeightSum.v|./src/test.v|./src/MultiplyInt.v|./src/MultiplyFloat.v|./src/HistoryData.v|./src/Fundamentals.v|./src/FFT.v|./src/DivideInt.v|./src/DivideFloat.v|./src/DataInFlag.v|./src/Coefficients.v|./src/AddInt.v|./src/AddFloat.v|
+R6
+!i113 1
+o-sv
+R7
+n@add@int
+vCoefficients
+R1
+R2
+!i10b 1
+!s100 d]7IaADKnA?ZF^9YfXeWL0
+Ij=8QO51U3iW29MjT1>W]b1
+S1
+R0
+w1748149612
+8./src/Coefficients.v
+F./src/Coefficients.v
+!i122 0
+L0 1 108
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@coefficients
+vDataInFlag
+R1
+R2
+!i10b 1
+!s100 G@fh0AVCc38FzI=fPfGQY1
+IldhV<:cEG;RG=hfI`WmSk2
+S1
+R0
+w1747813197
+8./src/DataInFlag.v
+F./src/DataInFlag.v
+!i122 0
+L0 2 36
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@data@in@flag
+vDivideFloat
+R1
+R2
+!i10b 1
+!s100 PkMoecoQV[HCLD;bkCNfU2
+ImU`_Q<Om;`1WM>o9e0m`^2
+S1
+R0
+w1747990153
+8./src/DivideFloat.v
+F./src/DivideFloat.v
+!i122 0
+L0 1 153
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@divide@float
+vDivideInt
+R1
+R2
+!i10b 1
+!s100 ^2ah<^2Z03:n0::^cANJD2
+I;VGYGB84]IhCE1?i7aNTK3
+S1
+R0
+w1747989113
+8./src/DivideInt.v
+F./src/DivideInt.v
+!i122 0
+L0 1 116
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@divide@int
+vFFT
+R1
+R2
+!i10b 1
+!s100 Fk8Va:FXzd;6Zc><^;klc2
+IQ4<3H_>8RC?Kco0CL=i3m1
+S1
+R0
+w1748147299
+8./src/FFT.v
+F./src/FFT.v
+!i122 0
+L0 3 566
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@f@f@t
+vFundamentals
+R1
+R2
+!i10b 1
+!s100 5TLDBiE1N3ggfETeP_D=a0
+I4jO5aTDA5^Te>XGmh:d590
+S1
+R0
+w1748149428
+8./src/Fundamentals.v
+F./src/Fundamentals.v
+!i122 0
+L0 1 125
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@fundamentals
+vHistoryData
+R1
+R2
+!i10b 1
+!s100 kmJB91lmLXJNRFEI=`XT52
+I2e=cfQXn3MPh1AZ00ZPjT2
+S1
+R0
+w1747983794
+8./src/HistoryData.v
+F./src/HistoryData.v
+!i122 0
+L0 1 48
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@history@data
+vMultiplyFloat
+R1
+R2
+!i10b 1
+!s100 I2ETc8ze5dn@f:mXU2=>C0
+I8li;_8z:AhFo8d;azUDl[2
+S1
+R0
+w1747968823
+8./src/MultiplyFloat.v
+F./src/MultiplyFloat.v
+!i122 0
+L0 1 150
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@multiply@float
+vMultiplyInt
+R1
+R2
+!i10b 1
+!s100 31E33l]ckKfAj1M1`>JWf3
+IO_JmlH@IH6G60kk19OKL]1
+S1
+R0
+w1747968253
+8./src/MultiplyInt.v
+F./src/MultiplyInt.v
+!i122 0
+L0 1 104
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@multiply@int
+vtest
+R1
+R2
+!i10b 1
+!s100 iGYCFbAmZP`EkQJe8PgBn0
+IZTfW^G;0DH9L>CTLg_hSX3
+S1
+R0
+w1748065648
+8./src/test.v
+F./src/test.v
+!i122 0
+L0 5 347
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+vWeightSum
+R1
+R2
+!i10b 1
+!s100 3?<b>fccQf:@2PLlTT>Be3
+Ij8?<4m>m:Szl8NOfJ_F[z3
+S1
+R0
+w1748054699
+8./src/WeightSum.v
+F./src/WeightSum.v
+!i122 0
+L0 1 96
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+o-sv
+R7
+n@weight@sum
